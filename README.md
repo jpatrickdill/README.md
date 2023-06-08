@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick.</h1>
 <h3 align="center">Developer from Atlanta creating tools for Roblox</h3>
 
-- 👨‍💻 All of my projects are available at [https://paric.xyz](https://paric.xyz)
+- 👨‍💻 All of my projects are available at [https://paric.dev](https://paric.dev)
 
 - 📫 How to reach me **jamespatrickdill@gmail.com**
 
